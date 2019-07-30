@@ -1,1 +1,2 @@
 1. Now this is the first line in my text file which will be pushed to the GitHub
+2. This is the new line I am adding
